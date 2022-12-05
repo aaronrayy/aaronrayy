@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aaronrayy
-- 👀 I’m interested in Artificial Intelligence, cybersecurity, data science, and machine learning
-- 🌱 I’m currently learning algorithms and data structures, machine architecture and organization, and economics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+- Hi, I’m @aaronrayy
+- I’m interested in web development, user interface design, data science, and making technology that helps people and solves problems :-)
+- I’m currently learning operating systems, functional programming, linear algebra, and accounting!
+- How to reach me:
   email: aaronray.kruse@gmail.com
   discord: aaronray #5237
 
