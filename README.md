@@ -1,6 +1,7 @@
 - Hi, I’m @aaronrayy
-- I’m interested in web development, user interface design, data science, and making technology that helps people and solves problems :-)
-- I’m currently learning operating systems, functional programming, linear algebra, and accounting!
+- I recently graduated from the University of Minnesota - Twin Cities with a BS in CS and a minor in Management from the Carlson School of Management.
+- I’m interested in web development, algorithms, UI/UX, data science, and making technology that helps people and solves problems.
+- I’m currently learning full stack software development!
 - How to reach me:
   email: aaronray.kruse@gmail.com
   discord: aaronray #5237
